@@ -16,9 +16,9 @@ on `src/App.tsx`, you'll find the `useProgram` hook to show you how to connect a
 
 To learn more about web3sdkio, React and CRA, take a look at the following resources:
 
-- [web3sdkio React Documentation](https://portal.web3sdk.io/react) - learn about our React SDK.
-- [web3sdkio Solana Documentation](https://portal.web3sdk.io/solana) - learn about our Solana SDK.
-- [web3sdkio SDK Documentation](https://portal.web3sdk.io/sdk) - learn about our JavaScript/TypeScript SDK.
+- [web3sdkio React Documentation](https://docs.web3sdk.io/react) - learn about our React SDK.
+- [web3sdkio Solana Documentation](https://docs.web3sdk.io/solana) - learn about our Solana SDK.
+- [web3sdkio SDK Documentation](https://docs.web3sdk.io/sdk) - learn about our JavaScript/TypeScript SDK.
 - [web3sdkio Portal](https://docs.web3sdk.io/react) - check our guides and development resources.
 - [React documentation](https://reactjs.org/) - learn React.
 
@@ -26,4 +26,4 @@ You can check out [the web3sdkio GitHub organization](https://github.com/web3sdk
 
 ## Join our Discord!
 
-For any questions or suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions or suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
